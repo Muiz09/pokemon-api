@@ -1,0 +1,24 @@
+{
+  "myPokemon": [
+    {
+      "name": "Pikachu",
+      "id": "ab3664f7-97b8-4797-a13a-f374ae45f422",
+      "number": 16
+    },
+    {
+      "name": "Pikachu",
+      "id": "3a885951-dd2c-4a20-ae32-adecec81891f",
+      "number": 24
+    },
+    {
+      "name": "Pikachu",
+      "id": "166b01b2-f147-46b7-97d8-5c3a8cddcf10",
+      "number": 0
+    },
+    {
+      "name": "pigihgok-1",
+      "id": "392b3cb7-97e4-46a8-92ed-f52362261fd4",
+      "number": 3
+    }
+  ]
+}
